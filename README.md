@@ -9,7 +9,7 @@ Stable Diffusion Discord bot powered by Prodia\
 
 # running
 - clone repo
-  ```cmd
+  ```cmd 
   git clone https://github.com/zenafey/stable-diffusion-bot
   cd stable-diffusion-bot
   ```
