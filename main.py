@@ -8,7 +8,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-match args.env:
+match args.env: 
     case "prod":
         discord_token = os.getenv("DISCORD_PROD")
     case _:
